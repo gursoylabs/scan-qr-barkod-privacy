@@ -1,0 +1,246 @@
+# Gizlilik Politikası
+
+**Son güncelleme:** 20 Ağustos 2026
+
+**Uygulama:** Scan QR & BARKOD  
+**Paket adı:** com.gursoylabs.scanqrbarkod  
+**Geliştirici:** Gursoy Labs  
+**İletişim:** gursoylaps@gmail.com
+
+---
+
+## 1. Genel Bakış
+
+Scan QR & BARKOD, QR kodlarını ve barkodları taramak, taranan içerikleri görüntülemek, geçmişte saklamak, favorilere eklemek ve QR kodları oluşturmak amacıyla geliştirilmiş bir mobil uygulamadır.
+
+Gizliliğinize önem veriyoruz. Uygulamanın temel tarama işlevleri mümkün olduğunca cihaz üzerinde gerçekleştirilir.
+
+Uygulama tarafından taranan QR ve barkod içerikleri, uygulamanın kendi sunucularına gönderilmez.
+
+Bununla birlikte uygulama, reklamların sunulması ve ilgili gizlilik tercihleri için Google Mobile Ads (AdMob) ve Google User Messaging Platform (UMP) hizmetlerini kullanmaktadır.
+
+---
+
+## 2. Toplanan ve İşlenen Veriler
+
+### 2.1 QR ve Barkod İçerikleri
+
+Uygulama tarafından taranan QR kodu veya barkodun içeriği uygulama içerisinde işlenir.
+
+Örneğin:
+
+- URL
+- Metin
+- EAN / UPC barkod numarası
+- Telefon numarası
+- E-posta adresi
+- SMS içeriği
+- Wi-Fi bilgileri
+- Diğer desteklenen QR/barkod içerikleri
+
+Bu içerikler uygulamanın kendi sunucularına gönderilmez.
+
+Taranan içerik, kullanıcı tarafından geçmişe kaydetme/favorilere ekleme gibi uygulama özellikleri kullanıldığında cihazın uygulamaya özel yerel depolama alanında tutulabilir.
+
+---
+
+## 3. Kamera Kullanımı
+
+Uygulama, QR kodlarını ve barkodları taramak amacıyla cihazın kamerasına erişim ister.
+
+Kamera görüntüsü:
+
+- yalnızca tarama amacıyla kullanılır,
+- uygulamanın kendi sunucularına gönderilmez,
+- kullanıcı tarafından ayrıca paylaşılmadığı sürece üçüncü taraflarla paylaşılmaz.
+
+Kamera erişimi, Android işletim sisteminin izin mekanizması üzerinden kullanıcı kontrolündedir.
+
+---
+
+## 4. Galeriden Görsel Seçme
+
+Kullanıcı "Görselden Tara" özelliğini kullandığında cihazındaki bir görseli seçebilir.
+
+Seçilen görsel QR/barkod tespiti amacıyla cihaz üzerinde işlenir.
+
+Uygulamanın kendi sunucusuna görsel yükleme özelliği bulunmamaktadır.
+
+---
+
+## 5. Tarama Geçmişi ve Favoriler
+
+Kullanıcı tarafından kaydedilen tarama geçmişi ve favoriler uygulamanın cihaz üzerindeki yerel depolama alanında tutulur.
+
+Bu veriler uygulamanın kendi sunucularında bir kullanıcı hesabına bağlanarak saklanmaz.
+
+Kullanıcı geçmiş kayıtlarını ve favorilerini uygulama içerisindeki ilgili özellikler üzerinden silebilir.
+
+Uygulama ayrıca Android'in yedekleme yapılandırmasında tarama geçmişi, küçük resimler ve uygulama ayarlarını bulut yedeklemesi ve cihaz transferi kapsamı dışında bırakacak şekilde yapılandırılmıştır.
+
+---
+
+## 6. Küçük Resimler
+
+Bazı tarama işlemlerinde kullanıcı tarafından seçilen veya tarama sonucuyla ilişkilendirilen küçük resimler cihazın uygulamaya özel depolama alanında tutulabilir.
+
+Bu dosyalar uygulamanın kendi sunucusuna yüklenmez.
+
+Kullanıcı ilgili geçmiş kaydını sildiğinde ilişkili küçük resim de uygulama tarafından silinir.
+
+---
+
+## 7. Reklamlar
+
+Uygulama Google Mobile Ads (AdMob) hizmetini kullanır.
+
+AdMob, reklamların sunulması, ölçülmesi, güvenliğinin sağlanması ve hizmetin geliştirilmesi amacıyla belirli cihaz ve kullanım bilgilerini işleyebilir.
+
+Bu bilgiler Google'ın kendi hizmetleri ve politikaları kapsamında işlenebilir.
+
+Google Mobile Ads SDK tarafından işlenebilecek bilgiler arasında, kullanım şekline bağlı olarak:
+
+- IP adresi,
+- reklam kimliği veya cihaz tanımlayıcıları,
+- uygulama etkileşimleri,
+- reklam etkileşimleri,
+- tanılama ve performans bilgileri
+
+bulunabilir.
+
+Google Mobile Ads SDK'nın veri uygulamaları hakkında güncel bilgi için Google'ın ilgili gizlilik açıklamalarına bakabilirsiniz.
+
+---
+
+## 8. Reklam Gizliliği ve Kullanıcı Tercihleri
+
+Uygulama Google User Messaging Platform (UMP) kullanmaktadır.
+
+Kullanıcının bulunduğu bölge ve uygulanabilir gizlilik düzenlemelerine göre reklamlarla ilgili tercihleri kullanıcıya sunulabilir.
+
+Özellikle Avrupa Ekonomik Alanı (EEA), Birleşik Krallık ve İsviçre gibi bölgelerde uygulanabilir gizlilik gereklilikleri kapsamında kullanıcıdan reklamlarla ilgili tercih/izin alınması gerekebilir.
+
+Kullanıcı, uygulama içerisindeki reklam gizliliği seçenekleri sunulduğunda tercihlerini yönetebilir veya değiştirebilir.
+
+Google UMP, reklam isteği gönderilmeden önce uygulanabilir kullanıcı tercihlerini kontrol etmek amacıyla kullanılmaktadır.
+
+---
+
+## 9. Google Play Faturalandırma
+
+Uygulama, ücretli özellikler veya reklam kaldırma gibi satın alımlar için Google Play Faturalandırma altyapısını kullanabilir.
+
+Ödeme bilgileri uygulama tarafından doğrudan alınmaz veya saklanmaz.
+
+Ödeme işlemleri Google Play tarafından gerçekleştirilir.
+
+Google Play'in kendi gizlilik politikası ve hizmet şartları ayrıca geçerlidir.
+
+---
+
+## 10. Harici Uygulamalara Aktarım
+
+Uygulama, kullanıcının açıkça istediği işlemler sonucunda bazı içerikleri harici uygulamalara aktarabilir.
+
+Örneğin kullanıcı:
+
+- bir URL'yi tarayıcıda açabilir,
+- taranan içeriği paylaşabilir,
+- içeriği kopyalayabilir,
+- web'de arama yapabilir.
+
+Bu işlemler kullanıcı tarafından başlatılır.
+
+Bir URL veya başka bir içerik harici bir uygulamada açıldığında, ilgili üçüncü taraf uygulamanın kendi gizlilik politikası ve veri işleme kuralları geçerlidir.
+
+---
+
+## 11. Web'de Arama
+
+Kullanıcı "Web'de Ara" veya benzeri bir arama özelliğini kullandığında, arama sorgusu ilgili arama hizmetine gönderilebilir.
+
+Bu aktarım yalnızca kullanıcı tarafından ilgili özelliğin başlatılmasıyla gerçekleşir.
+
+Arama hizmetinin kendi gizlilik politikası geçerlidir.
+
+---
+
+## 12. Veri Güvenliği
+
+Uygulama tarafından yerel olarak tutulan tarama geçmişi, favoriler, ayarlar ve ilişkili dosyalar uygulamanın özel depolama alanlarında saklanır.
+
+Uygulamanın kendi backend sunucusu veya kullanıcı hesabı sistemi bulunmamaktadır.
+
+Bununla birlikte, cihazın işletim sistemi, cihaz üreticisi, Google Play hizmetleri, reklam SDK'ları veya kullanıcının tercih ettiği harici uygulamalar kendi bağımsız veri işleme süreçlerine sahip olabilir.
+
+---
+
+## 13. Veri Saklama ve Silme
+
+Uygulamanın kendi yerel verileri, kullanıcı tarafından uygulama içerisindeki ilgili silme seçenekleri kullanılarak kaldırılabilir.
+
+Kullanıcı ayrıca Android işletim sistemi üzerinden uygulamanın verilerini temizleyebilir veya uygulamayı kaldırabilir.
+
+AdMob ve Google Play tarafından işlenen veriler için Google'ın ilgili veri saklama ve silme politikaları geçerlidir.
+
+---
+
+## 14. Çocukların Gizliliği
+
+Scan QR & BARKOD özellikle çocuklara yönelik olarak tasarlanmış bir uygulama değildir.
+
+Uygulamanın reklam ve gizlilik yapılandırması, yürürlükteki platform ve gizlilik gerekliliklerine uygun şekilde yönetilmektedir.
+
+Çocukların kişisel bilgilerinin korunmasına önem veriyoruz.
+
+---
+
+## 15. Üçüncü Taraf Hizmetleri
+
+Uygulamanın kullandığı başlıca üçüncü taraf hizmetleri:
+
+- Google Mobile Ads (AdMob)
+- Google User Messaging Platform (UMP)
+- Google Play Billing
+
+Bu hizmetlerin kendi gizlilik politikaları ve kullanım şartları bulunmaktadır.
+
+---
+
+## 16. Google'ın Gizlilik Politikası
+
+Google hizmetlerinin veri işleme uygulamaları hakkında daha fazla bilgi için Google'ın güncel gizlilik politikasını inceleyebilirsiniz:
+
+https://policies.google.com/privacy
+
+AdMob hakkında daha fazla bilgi:
+
+https://policies.google.com/technologies/partner-sites
+
+Google Mobile Ads SDK'nın veri güvenliği açıklaması:
+
+https://developers.google.com/admob/android/privacy/play-data-disclosure
+
+---
+
+## 17. Gizlilik Politikası Değişiklikleri
+
+Bu gizlilik politikası, uygulamanın özelliklerinde veya kullanılan üçüncü taraf hizmetlerinde meydana gelen değişikliklere bağlı olarak güncellenebilir.
+
+Güncel sürüm her zaman bu sayfada yayınlanacaktır.
+
+---
+
+## 18. İletişim
+
+Gizlilik, veri işleme veya uygulamanın kişisel verilerle ilgili uygulamaları hakkında sorularınız varsa bizimle iletişime geçebilirsiniz.
+
+**Gursoy Labs**
+
+E-posta:
+
+gursoylaps@gmail.com
+
+---
+
+**Bu Gizlilik Politikası yalnızca Scan QR & BARKOD uygulaması için geçerlidir.**
